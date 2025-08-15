@@ -1,7 +1,7 @@
 # 🛒 E-Commerce Backend with Spring Boot
 
 This project is a **Spring Boot-based E-Commerce backend** designed with clean architecture principles, advanced Spring features, and robust security.  
-It demonstrates real-world backend development skills including **JWT authentication, role-based authorization, AOP, and reusable response handling**.
+It demonstrates real-world backend development skills, including **JWT authentication, role-based authorization, AOP, and reusable response handling**.
 
 ---
 
@@ -24,6 +24,13 @@ It demonstrates real-world backend development skills including **JWT authentica
   - Global exception handling for better error reporting.
 
 ---
+
+<img width="1919" height="847" alt="Screenshot 2025-08-15 235153" src="https://github.com/user-attachments/assets/b8f0d4d7-5a15-415a-b9bb-213663591a57" />
+<img width="1910" height="886" alt="Screenshot 2025-08-15 235121" src="https://github.com/user-attachments/assets/d80bbe10-60e6-49ca-8fe4-836e781f77b1" />
+<img width="1918" height="572" alt="Screenshot 2025-08-15 234827" src="https://github.com/user-attachments/assets/5b554fa3-8654-4d68-9f19-cc0cf9ca2e49" />
+<img width="1913" height="607" alt="Screenshot 2025-08-15 234751" src="https://github.com/user-attachments/assets/be0f7cda-f54e-4041-85ff-a1f10d66d135" />
+<img width="1919" height="986" alt="Screenshot 2025-08-15 234511" src="https://github.com/user-attachments/assets/c218aa7d-07e9-421c-91ac-95ba8436a668" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-15 234432" src="https://github.com/user-attachments/assets/7e42aedf-bf77-4703-bb12-5f1e43233d04" />
 
 ## 🛠️ Tech Stack
 
